@@ -1,4 +1,5 @@
-# FoLT_23_24_SharedTask
+# FoLT_23_24_SharedTask 
+[![License](https://img.shields.io/github/license/UKPLab/ukp-project-template)](https://opensource.org/licenses/Apache-2.0)
 
 This repository contains a dataset with donated annotations from the participants of a shared task that we organized at the Foundations of Language Technology (FoLT) course in 2023/2024 at the Technical University of Darmstadt, which focuses on evaluating the output of Large Language Models (LLMs) in generating harmful answers to health-related clinical questions.
 
