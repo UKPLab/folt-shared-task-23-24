@@ -6,7 +6,7 @@ This repository contains a dataset with donated annotations from the participant
 
 <img width="698" alt="image" src="https://github.com/yufanghou/FoLT_23_24_SharedTask/assets/11052445/f151d67c-1a1d-4be8-9e65-89d62f1f87f1">
 
-:page_with_curl: [paper](https://arxiv.org/submit/5767062)
+:page_with_curl: [paper](https://arxiv.org/abs/2408.00122)
 
 Contact person: [Yufang Hou](https://yufanghou.github.io/)
 
